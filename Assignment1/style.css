@@ -1,0 +1,125 @@
+main {
+  font-family: sans-serif;
+  width: 100%;
+}
+
+header 
+{
+  width: 100%;
+}
+
+h1 {
+  color: black;
+  text-align: center; 
+  font-family: arial;
+}
+
+h2 {
+  text-align: center;
+  font-family: arial;
+}
+
+h3{
+  text-align: center;
+  font-family: arial;
+  color: white;
+
+}
+
+p {
+  color: white;
+  text-align: justify; 
+}
+
+label
+{
+  color: white;
+}
+
+form {
+  width: 100%;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+a
+{
+  color: white;
+  text-decoration: none;
+}
+
+div
+{
+  border: 1px solid;
+  padding: 40px;
+  margin: auto;
+  padding-left: 100px;
+}
+
+section {
+  background-color: #333;
+  border: 1px solid;
+  margin-top: 6%;
+  padding: 40px;
+  max-width: 400px; 
+  height: 600px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: justify; 
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+footer
+{
+  text-align: center; 
+  margin-top: 10%;
+  background-color: #333;
+  width: 100%;
+  padding: 5px;
+  border: 3px solid navy;
+  margin: 4px;
+  border-radius: 1px;
+  font-weight: bold;
+  color: white;
+}
+
+header{
+  text-align: center; 
+  width: 100%;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+nav{
+  display: block;
+  color: white;
+  text-align: center;
+  width: 100%;
+  height: 10%;
+  padding: 14px 12px;
+  text-decoration: none;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+}
+
+nav a:hover {
+  background-color: #111;
+}
